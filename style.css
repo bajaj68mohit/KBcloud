@@ -22,8 +22,14 @@ body {
 .image-vector {
   width: 50vw;
   height: 50vh;
-  background: url(/undraw-upload.svg) no-repeat center;
-  background-size: contain;
+  background: no-repeat center;
+  margin-bottom: -5rem;
+}
+.image-vectorr {
+  width: 35vw !important;
+  float: right;
+  margin-right: 5rem;
+  margin-bottom: -40rem;
 }
 
 body,
